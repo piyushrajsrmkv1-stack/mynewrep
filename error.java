@@ -6,7 +6,7 @@ public class ErrorDemo {
 
         System.out.println("Value: " + number)
 
-        for(int i = 0; i < 5; i--) {   // LOGICAL ERROR: infinite loop
+        for(int i = 0; i < 5; i++) {   // LOGICAL ERROR: infinite loop
             System.out.println(i);
         }
 
