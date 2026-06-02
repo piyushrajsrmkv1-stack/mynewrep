@@ -1,3 +1,4 @@
+// Automated remediation applied by AAVA. Fixed deterministic Java issues.
 import java.util.Scanner;
 
 public class FibonacciSeries {
