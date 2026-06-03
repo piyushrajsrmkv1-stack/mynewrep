@@ -1,3 +1,4 @@
+// FIX THE ERRORS
 // Automated remediation applied by AAVA. Fixed deterministic Java issues.
 public class ErrorDemo {
 
